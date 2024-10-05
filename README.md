@@ -120,13 +120,7 @@ I am currently still learning, and the spoofer is far from being 100% perfect. B
 ↳ (Currently, @toto, @Starcharms, and I are working on the Kernel Integration. However, this process takes time. We are not merely adding an DMIEDIT edit executed by the spoofer; instead, we are developing a complete driver that communicates with Spoofy, supporting both Win10 and Win11.)
 
 ▰▰▰▰▰▰▰▰▰▰▱▱▱ 75% Finish ❤️                          
-            
-
-
-
-# GUI & CMD PREVIEW 🏆
-[No Updates for the CLI Version!]
-![Screenshot 2023-12-11 191951 (1)](https://github.com/SecHex/SecHex-Spoofy/assets/96635023/22ad94a2-f003-49cb-b0e
+        
 
 
 
