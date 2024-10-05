@@ -1,7 +1,8 @@
-# SecHex-Spoofy [1.5.8] [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]()
+# PloxSpoofer [1.9.9] [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]()
 
-Simple HWID-Changer 🔑︎ 
-Some Lines of the CLI Version are from @LockBlock-dev
+Simple HWID-Changer🔑︎ 
+PloxSpoofer
+Some Lines of the CLI Version are from @PloxTools
 
 
 
@@ -90,7 +91,7 @@ I am currently still learning, and the spoofer is far from being 100% perfect. B
     • Updates the registry values for MRU0, MRU1, MRU2, MRU3, and MRU4.                          
                        
 
-+ **SecHex Cleaner** *[New]* (testing) - [28.06.23]                           
++ **Plox Cleaner** *[New]* (testing) - [28.06.23]                           
     • DNS Flush                          
     • Temp Cleaner                          
     • Windows Logs
@@ -132,7 +133,7 @@ I am currently still learning, and the spoofer is far from being 100% perfect. B
 
 # Contributors ❤️
 Contributors get a special Role our discord Server. Just create a Ticket and send proof.                                         
-Cheers!                                            .gg/SecHex
+Cheers!                                            .gg/onlyniggers
 
 
 
