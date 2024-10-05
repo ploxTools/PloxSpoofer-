@@ -126,7 +126,7 @@ I am currently still learning, and the spoofer is far from being 100% perfect. B
 
 # GUI & CMD PREVIEW 🏆
 [No Updates for the CLI Version!]
-![Screenshot 2023-12-11 191951 (1)](https://github.com/SecHex/SecHex-Spoofy/assets/96635023/22ad94a2-f003-49cb-b0ef-fea0160bd093)
+![Screenshot 2023-12-11 191951 (1)](https://github.com/SecHex/SecHex-Spoofy/assets/96635023/22ad94a2-f003-49cb-b0e
 
 
 
